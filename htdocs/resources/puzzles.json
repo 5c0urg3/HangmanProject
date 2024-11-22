@@ -1,0 +1,16 @@
+[
+    {"word": "Metroid","hint": "Space bounty hunter fights aliens."},
+    {"word": "Bomberman",  "hint": "Place bombs to destroy walls."},
+    {"word": "Pong",  "hint": "Hit the ball with the paddle and score."},
+    {"word": "Mario",  "hint": "Jump on the heads of your enemies."},
+    {"word": "Pacman",  "hint": "Eat little white dots."},
+    {"word": "Tetris",  "hint": "Fit shapes into a grid."},
+    {"word": "Castlevania",  "hint": "Teach dracula a lesson."},
+    {"word": "Snake",  "hint": "Eat fruit and watch your tail grow."},
+    {"word": "Frogger",  "hint": "Cross the road quickly."},
+    {"word": "Civilization",  "hint": "Watch out for Ghandi while you build your country."},
+    {"word": "Zelda",  "hint": "Save the princess and collect triangles."},
+    {"word": "Doom",  "hint": "Rip and tear until it is done."},
+    {"word": "Diablo",  "hint": "Hack and slash through demons and the like."},
+    {"word": "Halo",  "hint": "Super soldier vs aliens."}
+]

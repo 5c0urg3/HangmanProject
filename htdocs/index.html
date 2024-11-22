@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hang Man</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="fonts/fonts.css">
+    <script src = "https://code.jquery.com/jquery-3.7.0.min.js" defer></script>
+    <script src="js/Puzzle.js" defer = "defer"></script>
+    <script src="js/finalProjectScript.js" defer = "defer"></script>
+    <link rel="shortcut icon" type="image/png" href="/shortcutImage.png">
+</head>
+
+<body>
+    
+    <div class="groupedOnPanel">
+        <h1>Hang Man</h1>
+    </div> 
+
+    
+
+    <div class="groupedOnPanel">
+        <div class = "viewport">
+            <div class = "whiteDot">
+
+            </div>
+            <img src="/images/cannon.png" alt="cannon" width = "50" id = "cannon">
+        </div>
+        <h2 id = "hint"></h2>
+        <div class = "topic">
+        <div id = "letterButtons">
+            <button>A</button>
+            <button>B</button>
+            <button>C</button>
+            <button>D</button>
+            <button>E</button>
+            <button>F</button>
+            <button>G</button>
+            <button>H</button>
+            <button>I</button>
+            <button>J</button>
+            <button>K</button>
+            <button>L</button>
+            <button>M</button>
+            <button>N</button>
+            <button>O</button>
+            <button>P</button>
+            <button>Q</button>
+            <button>R</button>
+            <button>S</button>
+            <button>T</button>
+            <button>U</button>
+            <button>V</button>
+            <button>W</button>
+            <button>X</button>
+            <button>Y</button>
+            <button>Z</button>
+            </div>
+        </div>
+    </div>
+    
+    <div class = "groupedOnPanel popup" id = "endPopup">
+        <h2 id = successMessage></h2>
+        <img src="/images/check.png" width = "1" alt="" id = "popupIcon"><br>
+        <button id = "playAgain">Play Again?</button>
+    </div>
+
+    
+
+
+</body>
+</html>
